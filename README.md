@@ -1,2 +1,2 @@
 # emptyRepository
-Test Jenkins6
+Test Jenkins7
